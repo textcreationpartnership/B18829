@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A caution to Christians: or, serious maxims of a desired reformation; according to Old and New Testament practice. Continued to this glorious day of a reformation; begun by Their present Majesties William and Mary, whom God long preserve, to see Their resolves for church and state compleated. With a short exhortation of a late eminent divine, to improve their high calling with the greatest zeal for the kingdoms interest, in this our day.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18829</idno><idno type="EEBO-CITATION">99885373</idno>
+  <idno type="VID">201304</idno>
+  <idno type="EEBO-PROQUEST">2264214610</idno>
+  
+            <idno type="STC">Wing C1559</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[30]</idno>
+            <idno type="STC">ESTC R222956</idno>
+            <idno type="PROQUEST">ocm99885373</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885373e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201304)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A caution to Christians: or, serious maxims of a desired reformation; according to Old and New Testament practice. Continued to this glorious day of a reformation; begun by Their present Majesties William and Mary, whom God long preserve, to see Their resolves for church and state compleated. With a short exhortation of a late eminent divine, to improve their high calling with the greatest zeal for the kingdoms interest, in this our day.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray, at the Angel in Duck-Lane, J. Millet, at the Angel in Little-Brittain, and A. Milbourn, at the Stationers-Arms in the Little Old-Bayly,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; place and date of publication from Wing.</note>
+                  <note>Printed in three columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  History --  Early works to 1800.</term>
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201304:1"/>
+            <head>
+               <hi>A Caution to Christians:</hi> OR: Serious Maxims of a Desired Reformation; According to Old and New TESTAMENT Practice. Continued to this Glorious Day of a Reformation; Begun by Their Present Majesties <hi>WILLIAM</hi> and <hi>MARY,</hi> whom God long Preserve, to see Their Resolves for CHURCH and STATE Compleated With a Short EXHORTATION of a late Eminent DIVINE, to Improve their High Calling with the greatest Zeal for the Kingdoms Interest, in this our Day.</head>
+            <figure>
+               <figDesc>woodcut of king and queen with guargds and nobility at court</figDesc>
+            </figure>
+            <figure>
+               <figDesc>woodcut of church</figDesc>
+            </figure>
+            <p>PEople under Oppression Gods design is for a course for their Deliverance; their Sighs and Greans move him to compassion, and he comes towards them in some eminent working, and engages a Leader to go before them. <hi>Moses</hi> shall have a Cail and a Message to deliver to <hi>Pharaoh,</hi> to let him know, that he must be the Instrument of Deliverance of Gods Chosen peo<g ref="char:EOLhyphen"/>ple, <hi>Exodus</hi> 3.</p>
+            <p>Times of Calamity are the Seasons for seeking God for direction of our Designs, that they may promote his own Glorious Ends: where God begins to Engage, his people find high encourage<g ref="char:EOLhyphen"/>ment.</p>
+            <p>When Gods Enemies are Plotting against a Re<g ref="char:EOLhyphen"/>formation, 'tis safest for you to let them see your Interest you rest on, and that your Judgement and Resolution is fix'd.</p>
+            <p>Holy preparations are the best foundation for Reformation, when carried on in the ways of Sanctification; watching with both Eyes, one towards Heaven, and the other towards the work we have to do: knowing, that the Enemies strong<g ref="char:EOLhyphen"/>est Conspiracies is, when Reformation appears with Success.</p>
+            <p>Reformation-times prove commonly very hard and Expensive Times, and Times of Murmuring: The more God is sought to, the more of Astoni<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<g ref="char:EOLhyphen"/>ment will the Success have in it, and their Won<g ref="char:EOLhyphen"/>der and Fear will fall upon the hearts of the Dis<g ref="char:EOLhyphen"/>pisers.</p>
+            <p>Beware of holding a Correspondence with those that have a secret opposition to Gods design, let them be Relations or Alliances, these the Enemy winds in to betray and act by.</p>
+            <p>The safest way in Gods work is, to imploy such Agents as have much of God in then. Heavenly work goes best on by Heavenly Instruments.</p>
+            <p>Gods work hath his Treasurers, that draw out the strength and contribution of all sorts; and God only seems to lay up provisions amongst his people for such a time. Men are but Treasurers for God, and must open their Coffers, when Provi<g ref="char:EOLhyphen"/>dence puts the Key into their hands.</p>
+            <p>If there be any one Eminent Agent whom God nath engaged and prospered in his work, there ought to be an eminent care for his <hi>preservation</hi> and <hi>accomodation,</hi> lest the <hi>light</hi> fall out, if the Candle<g ref="char:EOLhyphen"/>stick be broken.</p>
+            <p>
+               <hi>Godly Prudence</hi> is to prepare people in the way to Reformation; to acquaint them as well with the <hi>Cross</hi> as the <hi>Crown;</hi> to lay in a principle of <hi>Pa<g ref="char:EOLhyphen"/>tience,</hi> before <hi>Trouble</hi> does appear.</p>
+            <div type="part">
+               <head>Maxims of REFORMATION.</head>
+               <p>In <hi>Nehemiah's</hi> time, when the Remnant of the Captivity were under great Afflictions, and the Walls broken down, he <hi>wept</hi> and <hi>prayed</hi> for <hi>prospe<g ref="char:EOLhyphen"/>rity,</hi> and the Lord prospered the <hi>work,</hi> and behold his Diligence, <hi>Nehemah</hi> 1.11.</p>
+               <p>
+                  <hi>Sanball it, Tobiah,</hi> and <hi>Geshem</hi> laughed and scorn'd at their Undertaking, but God <hi>prospers</hi> their work, <hi>Nehemiah</hi> 2.19, 20.</p>
+               <p>Enemies to <hi>Reformation</hi> are troubled and cast down, when God appears for his people, <hi>Neh.</hi> 6.</p>
+               <p>If <hi>Hananiah,</hi> a faithful Ruler, have the Charge of <hi>Jerusalems</hi> safety, the work cannot miscarry, <hi>Nehem.</hi> 7.2.</p>
+               <p>If Watches be appointed, every one over-against his own House, Self interest obliges Diligence, <hi>Nehem.</hi> 7.3.</p>
+               <p>The Chief of the Fathers gave <hi>largely,</hi> and the rest of the people gave Twenty Thousand Drams of Gold, <hi>Nehem.</hi> 7.72 73.</p>
+               <p>Also Ordinances for Charging Yearly for the House of God, <hi>Nehem.</hi> 10.32.</p>
+               <p>To Consult Scripture in times of <hi>Reformation,</hi> is the safest Guide; <hi>Ezra</hi> did do that day by day, <hi>Nehem.</hi> 13.23, 24.</p>
+               <p>A Spirit of <hi>Prayer</hi> and <hi>Supplication</hi> before-hand, is a great Signal that God is about some <hi>great work</hi> for his Churches Interest, <hi>Acts</hi> 12, 14.</p>
+               <p>Differences amongst the Godly, are safest heal'd by the Godly. If the <hi>Graecians</hi> murmur against the <hi>Hebrews,</hi> then the <hi>twelve</hi> call the multitude of the Disciples together, <hi>Acts</hi> 6.1, 2.</p>
+               <p>When <hi>Paul</hi> was design'd for Murder, the Disci<g ref="char:EOLhyphen"/>ples prevented it by night, in a Basket, <hi>Acts</hi> 19.</p>
+            </div>
+            <div type="part">
+               <head>Of Gods Appearances in <hi>Reformation-Work.</hi>
+               </head>
+               <p>All his Miraculous Actings for his Law and Church of Old by <hi>Moses, Joshua,</hi> and after several Judges, <hi>Judges</hi> 3. The sudden restoring of his Worship under <hi>Asa, Jeho<g ref="char:EOLhyphen"/>shaphat, Hezekiah, Josiah,</hi> and the raising of the Temple under <hi>Cirus</hi> and <hi>Darius;</hi> all shew the Wonderful Divine Appearances: <hi>the Lord stirred up the Spirit of</hi> Cyrus, <hi>and then rose up the Fathers of</hi> Benjamin <hi>and</hi> Judah, with all those <hi>whose Spirits God had raised up.</hi> Also <hi>Artexerexes, Nehemiah, Mordecai,</hi> &amp;c. And under the Gospel, the Lord working with them, and confirming the word with Signs follow<g ref="char:EOLhyphen"/>ing, <hi>Mark</hi> 16.20. And so all along to this of ours.</p>
+               <p>To close up all, here is encouragement to the faithful Ministry that promote the Interest of <hi>State</hi> and <hi>Church.</hi>
+               </p>
+               <p>Let all faithful <hi>Ministers</hi> comfort themselves herein; tho' <hi>men</hi> be against them, yet they have their <hi>calling</hi> from the Lord; he will back them and bear them out; he will give <hi>power</hi> unto them. They are <hi>stars</hi> in Gods right hand; God will defend them. Fear not therefore, the faces of Men; seek not to please Men, for if you do, (as <hi>Paul</hi> speaks) you cannot be the Servants of God. You have your Ministry from the Lord, seek therefore to approve your selves, not to the Wicked, but to the Lord, who will defend and give power unto you, as he promiseth to his two Witnesses in the <hi>Revelations.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>And since the intent of this Discourse is for <hi>Re<g ref="char:EOLhyphen"/>formation</hi> and weakning Vice, I have here inserted the Titles of those <hi>DIVINES</hi> that are most fit to take upon them the Charge of Souls.</head>
+               <p>
+                  <hi>Ephes.</hi> 4.11. They are <hi>Pastors,</hi> and therefore their duty is to feed the people of God that depend<g ref="char:EOLhyphen"/>eth upon them.</p>
+               <p>1 <hi>Cor.</hi> 3.9. They are <hi>Husband men,</hi> and there<g ref="char:EOLhyphen"/>fore in duty, must Till Gods Ground, and sow his Seed.</p>
+               <p>
+                  <hi>Ezek.</hi> 1.17. They are <hi>Watch men,</hi> and therefore must give the people warning of ensuing danger.</p>
+               <p>1 <hi>Cor.</hi> 4.1. They are <hi>Dispencers of the Mysteries of God,</hi> to deliver that to the people which they have received of him. <hi>Luke</hi> 22.24. Called <hi>Stew<g ref="char:EOLhyphen"/>ards of Gods House,</hi> and therefore must give every Man his portion of Meat in due season.</p>
+               <p>
+                  <hi>Mat.</hi> 5.14. They are the <hi>Light of the world,</hi> and therefore their duty is to shine forth by Heavenly Doctrine to enlighten Gods people.</p>
+               <p>
+                  <hi>Mat.</hi> 5.13. They are the <hi>Salt of the earth,</hi> and therefore their duty is to season with wholsome Doctrine, the weak Souls that bend to Corruption.</p>
+               <p>1 <hi>Cor.</hi> 3.10. They are <hi>Builders,</hi> and therefore musted fie the Body of <hi>Christ,</hi> the House of <hi>God.</hi>
+               </p>
+               <p>
+                  <hi>Heb.</hi> 13.17. They are <hi>Captains,</hi> and therefore it is their part to fight <hi>Gods</hi> Battels: and good <hi>Lea<g ref="char:EOLhyphen"/>ders</hi> and <hi>Chieftains,</hi> to instruct Gods people well in this Spiritual Warfare.</p>
+               <p>
+                  <hi>Ephe.</hi> 6.20. They are called <hi>Embassadours,</hi> and therefore their duty is to declare <hi>Gods</hi> Message to the people.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>W. Chackeray,</hi> at the <hi>Angel</hi> in <hi>Duck-Lane, I. Millet,</hi> at the <hi>Angel</hi> in <hi>Little-Brittain,</hi> and <hi>A. Milbourn,</hi> at the <hi>Stationers-Arms</hi> in the <hi>Little Old-Bayly.</hi> 33:</p>
+         </div>
+      </back>
+   </text>
+</TEI>
